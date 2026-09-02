@@ -1,0 +1,24 @@
+# Credenciais / configuração local
+conexao.php
+.env
+.env.*
+*.local.php
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Cache
+__pycache__/
